@@ -134,19 +134,19 @@ streamlit run app.py
 Add your app screenshots below:
 
 ### Home Tab
-![Home Tab](docs/images/home-tab.png)
+![Home Tab](model_images/home1.png)
 <!-- Replace with your screenshot path -->
 
 ### Health Assistant Tab
-![Health Assistant Tab](docs/images/health-assistant-tab.png)
+![Health Assistant Tab](model_images/ai1.png)
 <!-- Replace with your screenshot path -->
 
 ### Risk Assessment Tab
-![Risk Assessment Tab](docs/images/risk-assessment-tab.png)
+![Risk Assessment Tab](model_images/rec1.png)
 <!-- Replace with your screenshot path -->
 
 ### Medical Guidelines Tab
-![Medical Guidelines Tab](docs/images/guidelines-tab.png)
+![Medical Guidelines Tab](model_images/ai1.medical_guide2)
 <!-- Replace with your screenshot path -->
 
 ## :bar_chart: Data Sources
