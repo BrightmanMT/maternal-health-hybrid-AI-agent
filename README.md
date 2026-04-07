@@ -146,7 +146,7 @@ Add your app screenshots below:
 <!-- Replace with your screenshot path -->
 
 ### Medical Guidelines Tab
-![Medical Guidelines Tab](model_images/ai1.medical_guide2.png)
+![Medical Guidelines Tab](model_images/medical_guide2.png)
 <!-- Replace with your screenshot path -->
 
 ## :bar_chart: Data Sources
