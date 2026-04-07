@@ -1,0 +1,23 @@
+# RAG & LLM Core
+langchain
+langchain-openai
+openai
+faiss-cpu
+tiktoken
+
+# Document Processing
+pypdf
+
+# App Interface
+streamlit
+altair
+
+# Data Science & Machine Learning Essentials
+pandas
+numpy
+scikit-learn
+python-dotenv  # To manage your API keys securely
+
+# Optional voice features used by the app
+SpeechRecognition
+gTTS
