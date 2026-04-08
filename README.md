@@ -1,4 +1,4 @@
-﻿# :pregnant_woman: Maternal Health Hybrid AI Agent
+﻿# :pregnant_woman: Maternal Health Hybrid AI Agent        [[Click here to try the app](https://brightmanmt-maternal-health-hybrid-ai-agent-app-cls4kv.streamlit.app/)]
 
 > AI-powered maternal decision support that combines clinical guideline retrieval with data-driven risk assessment.
 
