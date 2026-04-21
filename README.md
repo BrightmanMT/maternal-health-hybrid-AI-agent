@@ -131,7 +131,6 @@ streamlit run app.py
 - Open **Medical Guidelines (Tables)** for filtered WHO excerpts and summary analytics.
 
 ## :framed_picture: Screenshots
-Add your app screenshots below:
 
 ### Home Tab
 ![Home Tab](model_images/home1.png)
